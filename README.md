@@ -5,4 +5,4 @@ Write a program that accepts as input from the user a string. If the string matc
 Sample input:
 Enter word: aardvark
 Output: String is a valid word.
-
+Only letters starting with 'a' is uploaded.Is applicacable for any set of words......
