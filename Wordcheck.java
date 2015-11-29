@@ -10,7 +10,7 @@ public static void main(String[] args)
 	
 	int count=0;
 	try{
-	File file=new File("wordsEn.txt");
+	File file=new File("wordsEn,.txt");
 	FileReader filereader=new FileReader(file);
 	BufferedReader reader=new BufferedReader(filereader);
 	String line=null;
